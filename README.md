@@ -1,5 +1,4 @@
-# NYU-Course-Schedule
-=
+# NYU-Course-Schedule=
  I am currently improve this repository
  Hi, folks👋. Here is Hector He. I am currently a NYU graduate student major in computer Engineering💻. My interested field is applied machine learning and NLP.
  I am currently taking courses from NYU Tandon school of Engineering (ECE department) and NYU Courant Institute of Mathematical Sciences(Center for Data Science/ Computer Science).
