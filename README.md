@@ -24,13 +24,15 @@
 
 # AI
 
-|                  Course                  |    Instructor    | Grade |  Status  |           Repository/ Website            | comment |
-| :--------------------------------------: | :--------------: | :---: | :------: | :--------------------------------------: | :-----: |
-| Introduction to Machine Learning (Tandon Engineering) | Anna Choromanska |  A-   | complete | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
-|      Machine Learning (Courant CDS)      |      He He       |       | ongoing  | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
-|       Deep Learning (Courant CDS)        |    Yann LeCun    |       | ongoing  | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
-|      Computer Graphics(Courant CS)       | Daniele Panozzo  |       |   TBA    | [Link](https://github.com/danielepanozzo/cg) |   ✨✨✨   |
-| Natural Language Processing (Courant CS) |      He He       |       |   TBA    | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |  ✨✨✨✨✨  |
+|                  Course                  |       Instructor        | Grade |  Status  |           Repository/ Website            | comment |
+| :--------------------------------------: | :---------------------: | :---: | :------: | :--------------------------------------: | :-----: |
+| Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |  A-   | complete | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
+|      Machine Learning (Courant CDS)      |          He He          |       | ongoing  | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
+|       Deep Learning (Courant CDS)        |       Yann LeCun        |       | ongoing  | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
+| Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |   TBA    | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
+|        Text as data(Courant CDS)         |        Spirling         |       |   TBA    | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
+|      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |   TBA    | [Link](https://github.com/danielepanozzo/cg) |         |
+| Natural Language Processing (Courant CS) |          He He          |       |   TBA    | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
 
 
 
