@@ -1,17 +1,29 @@
-# NYU-Course-Schedule
- I am improving this repository.
- 
- Hi, folks👋. Here is Hector He. I am currently a NYU graduate student major in computer Engineering💻. My interested field is applied machine learning.
+#NYU-Course-Schedule
+
+ I am currently improve this repository
+ Hi, folks👋. Here is Hector He. I am currently a NYU graduate student major in computer Engineering💻. My interested field is applied machine learning and NLP.
  I am currently taking courses from NYU Tandon school of Engineering (ECE department) and NYU Courant Institute of Mathematical Sciences(Center for Data Science/ Computer Science).
  In this depository, I will proudly share you guys courses materials I took and open sources courses provided by NYU. Most of the courses is excellent and really worth learning.
  Besides, I `will` build the course map for NYU-CS/DS/ECE master program. 
  If you find this repo helpful for you, your 🌟 will be the best reward for me!
 
-# Software
+# Algorithm
 
 |                  Course                  | Instructor | Grade |  Status  |                Repository                | comment |
-| :--------------------------------------: | :--------: | :---: | :------: | :--------------------------------------: | ------- |
-| Data Structure and Algorithm (Tandon Engineering) |  Liu Yong  |   A   | complete | [Link](https://github.com/HectorHHZ/DSA) | ✨✨✨✨✨   |
+| :--------------------------------------: | :--------: | :---: | :------: | :--------------------------------------: | :-----: |
+| Data Structure and Algorithm (Tandon Engineering) |  Liu Yong  |   A   | complete | [Link](https://github.com/HectorHHZ/DSA) |  ✨✨✨✨✨  |
+| Same - Design and Analysis of Algorithms I（Tandon Engineering） |            |       |    =     |                                          |         |
+| Same - Fundamental Algorithms (Courant CDS) |            |       |    =     |                                          |         |
+| Same - Fundamental Algorithms (Courant CS) |            |       |    =     |                                          |         |
+
+
+
+# Software
+
+|                  Course                  |             Instructor              | Grade | Status  | Repository | comment |
+| :--------------------------------------: | :---------------------------------: | :---: | :-----: | :--------: | :-----: |
+| Internet Architecture & Protocols (Tandon Engineering) | Dr. Z. John Zhao &  Dr. Fraida Fund |       | ongoing |            |  ✨✨✨✨✨  |
+| Introduction to Java (Tandon Engineering) |  Dr. Constantine (Dean) Christakos  |       |         |            |         |
 
 
 
@@ -28,12 +40,14 @@
 |                  Course                  |       Instructor        | Grade |  Status  |           Repository/ Website            | comment |
 | :--------------------------------------: | :---------------------: | :---: | :------: | :--------------------------------------: | :-----: |
 | Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |  A-   | complete | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
-|      Machine Learning (Courant CDS)      |          He He          |       | ongoing  | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
+|      Machine Learning (Courant CDS)      |          He He          |       |    =     | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
+| Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |   TBA    |                                          |  ✨✨✨✨✨  |
+|                                          |                         |       |          |                                          |         |
 |       Deep Learning (Courant CDS)        |       Yann LeCun        |       | ongoing  | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
-| Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |   TBA    | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
-|        Text as data(Courant CDS)         |        Spirling         |       |   TBA    | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
 |      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |   TBA    | [Link](https://github.com/danielepanozzo/cg) |         |
 | Natural Language Processing (Courant CS) |          He He          |       |   TBA    | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
+|        Text as data(Courant CDS)         |        Spirling         |       |   TBA    | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
+| Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |   TBA    | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
 
 
 
