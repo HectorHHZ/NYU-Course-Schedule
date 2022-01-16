@@ -46,7 +46,7 @@
 |       Deep Learning (Courant CDS)        |       Yann LeCun        |       | ongoing  | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
 |      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |   TBA    | [Link](https://github.com/danielepanozzo/cg) |         |
 | Natural Language Processing (Courant CS) |          He He          |       |   TBA    | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
-|        Text as data(Courant CDS)         |        Spirling         |       |   TBA    | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
+|        Text as data(Courant CDS)         |        Spirling         |       |   ongoing    | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
 | Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |   TBA    | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
 
 
