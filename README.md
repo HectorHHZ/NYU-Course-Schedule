@@ -24,6 +24,8 @@
 | :--------------------------------------: | :---------------------------------: | :---: | :-----: | :--------: | :-----: |
 | Internet Architecture & Protocols (Tandon Engineering) | Dr. Z. John Zhao &  Dr. Fraida Fund |       | ongoing |            |  ✨✨✨✨✨  |
 | Introduction to Java (Tandon Engineering) |  Dr. Constantine (Dean) Christakos  |       |         |            |         |
+| Introduction to Operating System (Tandon Engineering) | Dr. Omar Mansour |        |       |       |      |
+| Principle of Database System (Tandon Engineering) | Dr. Torsten Suel |       |        |        |       
 
 
 
