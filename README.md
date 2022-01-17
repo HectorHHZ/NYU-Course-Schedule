@@ -35,6 +35,7 @@
 | :----------------------------------: | :--------: | :---: | :------: | :--------------------------------------: | :-----: |
 | Embedded System (Tandon Engineering) |  Campisi   |       | complete | [Link](https://github.com/HectorHHZ/RealTime_EmbeddedSystem) |   ✨✨    |
 | Computing System Architecture        |  Azeez     |       |          |                                                              |   ✨✨✨  |
+| System Engineering                   | Quanyan Zhu|       |          |                                                              |   ✨✨✨✨✨ | 
 
 
 
