@@ -1,4 +1,4 @@
-#NYU-Course-Schedule
+# NYU-Course-Schedule
 
  I am currently improve this repository
  Hi, folks👋. Here is Hector He. I am currently a NYU graduate student major in computer Engineering💻. My interested field is applied machine learning and NLP.
