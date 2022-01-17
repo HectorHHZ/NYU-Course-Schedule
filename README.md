@@ -7,7 +7,7 @@
  Besides, I `will` build the course map for NYU-CS/DS/ECE master program. 
  If you find this repo helpful for you, your 🌟 will be the best reward for me!！
 
-# Algorithm
+# Algorithm / Mathematics 
 
 |                  Course                  | Instructor | Grade |   Status   |                Repository                | comment |
 | :--------------------------------------: | :--------: | :---: | :--------: | :--------------------------------------: | :-----: |
@@ -15,6 +15,8 @@
 | Same - Design and Analysis of Algorithms I（Tandon Engineering） |            |       | equivalent |                                          |         |
 | Same - Fundamental Algorithms (Courant CDS) |            |       | equivalent |                                          |         |
 | Same - Fundamental Algorithms (Courant CS) |            |       | equivalent |                                          |         |
+| Applied Matrix Theory (Tandon Engineering) |  Zhong-Ping Jiang  |       |         |                        |  ✨✨✨✨✨  |
+| Probability and Stochastic Process (Tandon Engineering)| Pillai |      |          | [Link](http://www.mhhe.com/engcs/electrical/papoulis/ippt.mhtml) |          | 
 
 
 
