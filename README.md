@@ -23,9 +23,9 @@
 |                  Course                  |             Instructor              | Grade | Status  | Repository | comment |
 | :--------------------------------------: | :---------------------------------: | :---: | :-----: | :--------: | :-----: |
 | Internet Architecture & Protocols (Tandon Engineering) | Dr. Z. John Zhao &  Dr. Fraida Fund |       | ongoing |            |  ✨✨✨✨✨  |
-| Introduction to Java (Tandon Engineering) |  Dr. Constantine (Dean) Christakos  |       |         |            |  ✨✨✨✨  |
+| Introduction to Java (Tandon Engineering) |  Dr. Constantine (Dean) Christakos  |       |         |            |  ✨✨✨✨✨  |
 | Introduction to Operating System (Tandon Engineering) | Dr. Omar Mansour |        |       |       |   ✨✨✨✨✨   |
-| Principle of Database System (Tandon Engineering) | Dr. Torsten Suel |       |        |     ✨✨✨✨   |       
+| Principle of Database System (Tandon Engineering) | Dr. Torsten Suel |       |        |        |    ✨✨✨✨|   
 
 
 
@@ -43,7 +43,7 @@
 |                  Course                  |       Instructor        | Grade |   Status   |           Repository/ Website            | comment |
 | :--------------------------------------: | :---------------------: | :---: | :--------: | :--------------------------------------: | :-----: |
 | Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
-| Introduction to Machine Learning (Tandon Engineering) |    Chinmay Hegde     |          |            | [Link](https://chinmayhegde.github.io/introml-notes-sp2020)                                                         | ✨✨✨✨✨｜
+| Introduction to Machine Learning (Tandon Engineering) |    Chinmay Hegde     |          |            | [Link](https://chinmayhegde.github.io/introml-notes-sp2020)                                                         | ✨✨✨✨✨
 |      Machine Learning (Courant CDS)      |          He He          |       | equivalent | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
 |    Machine Learning for Cybersecurity (Tandon Engineering)   |     Siddharth Garg      |       |            | [Link](https://wp.nyu.edu/ensure_group/el-gy-9163-machine-learning-for-cyber-security/)                                                      |    ✨✨✨✨    |
 | Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |    TBA     |                                          |  ✨✨✨✨✨  |
