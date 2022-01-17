@@ -11,7 +11,7 @@
 
 |                  Course                  | Instructor | Grade |   Status   |                Repository                | comment |
 | :--------------------------------------: | :--------: | :---: | :--------: | :--------------------------------------: | :-----: |
-| Data Structure and Algorithm (Tandon Engineering) |  Liu Yong  |   A   |  complete  | [Link](https://github.com/HectorHHZ/DSA) |  ✨✨✨✨✨  |
+| Data Structure and Algorithm (Tandon Engineering) |  Liu Yong  |       |  complete  | [Link](https://github.com/HectorHHZ/DSA) |  ✨✨✨✨✨  |
 | Same - Design and Analysis of Algorithms I（Tandon Engineering） |            |       | equivalent |                                          |         |
 | Same - Fundamental Algorithms (Courant CDS) |            |       | equivalent |                                          |         |
 | Same - Fundamental Algorithms (Courant CS) |            |       | equivalent |                                          |         |
@@ -31,7 +31,7 @@
 
 |                Course                | Instructor | Grade |  Status  |                Repository                | comment |
 | :----------------------------------: | :--------: | :---: | :------: | :--------------------------------------: | :-----: |
-| Embedded System (Tandon Engineering) |  Campisi   |   A   | complete | [Link](https://github.com/HectorHHZ/RealTime_EmbeddedSystem) |   ✨✨    |
+| Embedded System (Tandon Engineering) |  Campisi   |       | complete | [Link](https://github.com/HectorHHZ/RealTime_EmbeddedSystem) |   ✨✨    |
 
 
 
@@ -39,7 +39,7 @@
 
 |                  Course                  |       Instructor        | Grade |   Status   |           Repository/ Website            | comment |
 | :--------------------------------------: | :---------------------: | :---: | :--------: | :--------------------------------------: | :-----: |
-| Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |  A-   |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
+| Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
 |      Machine Learning (Courant CDS)      |          He He          |       | equivalent | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
 | Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |    TBA     |                                          |  ✨✨✨✨✨  |
 |                                          |                         |       |            |                                          |         |
