@@ -46,8 +46,8 @@
 |                  Course                  |       Instructor        | Grade |   Status   |           Repository/ Website            | comment |
 | :--------------------------------------: | :---------------------: | :---: | :--------: | :--------------------------------------: | :-----: |
 | Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
-| Introduction to Machine Learning (Tandon Engineering) |      Chinmay Hegde      |       | equivalent | [Link](https://chinmayhegde.github.io/introml-notes-sp2020) |  ✨✨✨✨✨  |
-| Introduction to Machine Learning (Tandon Engineering) |         Pei Liu         |       | equivalent | [Link](https://github.com/pliugithub/MachineLearning) |  ✨✨✨✨   |
+| Same-Introduction to Machine Learning (Tandon Engineering) |      Chinmay Hegde      |       | equivalent | [Link](https://chinmayhegde.github.io/introml-notes-sp2020) |  ✨✨✨✨✨  |
+| Same-Introduction to Machine Learning (Tandon Engineering) |         Pei Liu         |       | equivalent | [Link](https://github.com/pliugithub/MachineLearning) |  ✨✨✨✨   |
 |      Machine Learning (Courant CDS)      |          He He          |       | equivalent | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
 | Machine Learning for Cybersecurity (Tandon Engineering) |     Siddharth Garg      |       |            | [Link](https://wp.nyu.edu/ensure_group/el-gy-9163-machine-learning-for-cyber-security/) |  ✨✨✨✨   |
 | Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |            |                   TBA                    |  ✨✨✨✨✨  |
