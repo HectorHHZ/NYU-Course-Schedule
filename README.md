@@ -34,6 +34,7 @@
 |                Course                | Instructor | Grade |  Status  |                Repository                | comment |
 | :----------------------------------: | :--------: | :---: | :------: | :--------------------------------------: | :-----: |
 | Embedded System (Tandon Engineering) |  Campisi   |       | complete | [Link](https://github.com/HectorHHZ/RealTime_EmbeddedSystem) |   ✨✨    |
+| Computing System Architecture        |  Azeez     |       |          |                                                              |            |
 
 
 
@@ -42,10 +43,13 @@
 |                  Course                  |       Instructor        | Grade |   Status   |           Repository/ Website            | comment |
 | :--------------------------------------: | :---------------------: | :---: | :--------: | :--------------------------------------: | :-----: |
 | Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
+| Introduction to Machine Learning (Tandon Engineering) |    Chinmay Hegde     |          |            |                                                                 |
 |      Machine Learning (Courant CDS)      |          He He          |       | equivalent | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
+|    Machine Learning for Cybersecurity    |     Siddharth Garg      |       |            |                                                       |               |
 | Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |    TBA     |                                          |  ✨✨✨✨✨  |
 |                                          |                         |       |            |                                          |         |
 |       Deep Learning (Courant CDS)        |       Yann LeCun        |       |  ongoing   | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
+|    Deep Learning (Tandon Engineering)    |      Chinmay Hegde      |       |            |                                             |              |
 |      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |    TBA     | [Link](https://github.com/danielepanozzo/cg) |         |
 | Natural Language Processing (Courant CS) |          He He          |       |    TBA     | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
 |        Text as data(Courant CDS)         |        Spirling         |       |  ongoing   | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
