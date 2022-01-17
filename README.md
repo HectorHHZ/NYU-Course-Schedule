@@ -43,13 +43,13 @@
 |                  Course                  |       Instructor        | Grade |   Status   |           Repository/ Website            | comment |
 | :--------------------------------------: | :---------------------: | :---: | :--------: | :--------------------------------------: | :-----: |
 | Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
-| Introduction to Machine Learning (Tandon Engineering) |    Chinmay Hegde     |          |            |                                                                 |
+| Introduction to Machine Learning (Tandon Engineering) |    Chinmay Hegde     |          |            | [Link](https://chinmayhegde.github.io/introml-notes-sp2020)/                                                         |
 |      Machine Learning (Courant CDS)      |          He He          |       | equivalent | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
-|    Machine Learning for Cybersecurity    |     Siddharth Garg      |       |            |                                                       |               |
+|    Machine Learning for Cybersecurity    |     Siddharth Garg      |       |            | [Link](https://wp.nyu.edu/ensure_group/el-gy-9163-machine-learning-for-cyber-security/)                                                      |               |
 | Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |    TBA     |                                          |  ✨✨✨✨✨  |
 |                                          |                         |       |            |                                          |         |
 |       Deep Learning (Courant CDS)        |       Yann LeCun        |       |  ongoing   | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
-|    Deep Learning (Tandon Engineering)    |      Chinmay Hegde      |       |            |                                             |              |
+|    Deep Learning (Tandon Engineering)    |      Chinmay Hegde      |       |            | [Link](https://chinmayhegde.github.io/dl-notes/)                                           |              |
 |      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |    TBA     | [Link](https://github.com/danielepanozzo/cg) |         |
 | Natural Language Processing (Courant CS) |          He He          |       |    TBA     | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
 |        Text as data(Courant CDS)         |        Spirling         |       |  ongoing   | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
