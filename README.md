@@ -36,8 +36,8 @@
 |                Course                | Instructor  | Grade |  Status  |                Repository                | comment |
 | :----------------------------------: | :---------: | :---: | :------: | :--------------------------------------: | :-----: |
 | Embedded System (Tandon Engineering) |   Campisi   |       | complete | [Link](https://github.com/HectorHHZ/RealTime_EmbeddedSystem) |   ✨✨✨   |
-|    Computing System Architecture     |    Azeez    |       |          |                                          |   ✨✨✨   |
-|          System Engineering          | Quanyan Zhu |       |          |                                          |  ✨✨✨✨✨  |
+|    Computing System Architecture(Tandon Engineering)     |    Azeez    |       |          |                                          |   ✨✨✨   |
+|          System Engineering(Tandon Engineering)          | Quanyan Zhu |       |          |                                          |  ✨✨✨✨✨  |
 
 
 
