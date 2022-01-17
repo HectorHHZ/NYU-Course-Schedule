@@ -5,7 +5,7 @@
  I am currently taking courses from NYU Tandon school of Engineering and NYU Courant Institute of Mathematical Sciences(Center for Data Science/ Computer Science).
  In this depository, I will proudly share you guys courses materials I took and open sources courses provided by NYU. Most of the courses is excellent and really worth learning.
  Besides, I `will` build the course map for NYU-CS/DS/ECE master program. 
- If you find this repo helpful for you, your 🌟 will be the best reward for me!
+ If you find this repo helpful for you, your 🌟 will be the best reward for me!！
 
 # Algorithm
 
