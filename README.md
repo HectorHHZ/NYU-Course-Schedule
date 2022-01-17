@@ -43,9 +43,9 @@
 |                  Course                  |       Instructor        | Grade |   Status   |           Repository/ Website            | comment |
 | :--------------------------------------: | :---------------------: | :---: | :--------: | :--------------------------------------: | :-----: |
 | Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
-| Introduction to Machine Learning (Tandon Engineering) |    Chinmay Hegde     |          |            | [Link](https://chinmayhegde.github.io/introml-notes-sp2020)/                                                         |
+| Introduction to Machine Learning (Tandon Engineering) |    Chinmay Hegde     |          |            | [Link](https://chinmayhegde.github.io/introml-notes-sp2020)                                                         |
 |      Machine Learning (Courant CDS)      |          He He          |       | equivalent | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
-|    Machine Learning for Cybersecurity    |     Siddharth Garg      |       |            | [Link](https://wp.nyu.edu/ensure_group/el-gy-9163-machine-learning-for-cyber-security/)                                                      |               |
+|    Machine Learning for Cybersecurity (Tandon Engineering)   |     Siddharth Garg      |       |            | [Link](https://wp.nyu.edu/ensure_group/el-gy-9163-machine-learning-for-cyber-security/)                                                      |               |
 | Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |    TBA     |                                          |  ✨✨✨✨✨  |
 |                                          |                         |       |            |                                          |         |
 |       Deep Learning (Courant CDS)        |       Yann LeCun        |       |  ongoing   | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
