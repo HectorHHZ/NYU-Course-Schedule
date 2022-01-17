@@ -9,12 +9,12 @@
 
 # Algorithm
 
-|                  Course                  | Instructor | Grade |  Status  |                Repository                | comment |
-| :--------------------------------------: | :--------: | :---: | :------: | :--------------------------------------: | :-----: |
-| Data Structure and Algorithm (Tandon Engineering) |  Liu Yong  |   A   | complete | [Link](https://github.com/HectorHHZ/DSA) |  ✨✨✨✨✨  |
-| Same - Design and Analysis of Algorithms I（Tandon Engineering） |            |       |    =     |                                          |         |
-| Same - Fundamental Algorithms (Courant CDS) |            |       |    =     |                                          |         |
-| Same - Fundamental Algorithms (Courant CS) |            |       |    =     |                                          |         |
+|                  Course                  | Instructor | Grade |   Status   |                Repository                | comment |
+| :--------------------------------------: | :--------: | :---: | :--------: | :--------------------------------------: | :-----: |
+| Data Structure and Algorithm (Tandon Engineering) |  Liu Yong  |   A   |  complete  | [Link](https://github.com/HectorHHZ/DSA) |  ✨✨✨✨✨  |
+| Same - Design and Analysis of Algorithms I（Tandon Engineering） |            |       | equivalent |                                          |         |
+| Same - Fundamental Algorithms (Courant CDS) |            |       | equivalent |                                          |         |
+| Same - Fundamental Algorithms (Courant CS) |            |       | equivalent |                                          |         |
 
 
 
@@ -37,17 +37,17 @@
 
 # AI
 
-|                  Course                  |       Instructor        | Grade |  Status  |           Repository/ Website            | comment |
-| :--------------------------------------: | :---------------------: | :---: | :------: | :--------------------------------------: | :-----: |
-| Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |  A-   | complete | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
-|      Machine Learning (Courant CDS)      |          He He          |       |    =     | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
-| Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |   TBA    |                                          |  ✨✨✨✨✨  |
-|                                          |                         |       |          |                                          |         |
-|       Deep Learning (Courant CDS)        |       Yann LeCun        |       | ongoing  | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
-|      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |   TBA    | [Link](https://github.com/danielepanozzo/cg) |         |
-| Natural Language Processing (Courant CS) |          He He          |       |   TBA    | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
-|        Text as data(Courant CDS)         |        Spirling         |       |   ongoing    | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
-| Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |   TBA    | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
+|                  Course                  |       Instructor        | Grade |   Status   |           Repository/ Website            | comment |
+| :--------------------------------------: | :---------------------: | :---: | :--------: | :--------------------------------------: | :-----: |
+| Introduction to Machine Learning (Tandon Engineering) |    Anna Choromanska     |  A-   |  complete  | [Link](https://github.com/HectorHHZ/Intro-to-ML) |  ✨✨✨✨   |
+|      Machine Learning (Courant CDS)      |          He He          |       | equivalent | [Link](https://nyu-ds1003.github.io/spring2021/#home) |  ✨✨✨✨✨  |
+| Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |    TBA     |                                          |  ✨✨✨✨✨  |
+|                                          |                         |       |            |                                          |         |
+|       Deep Learning (Courant CDS)        |       Yann LeCun        |       |  ongoing   | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
+|      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |    TBA     | [Link](https://github.com/danielepanozzo/cg) |         |
+| Natural Language Processing (Courant CS) |          He He          |       |    TBA     | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
+|        Text as data(Courant CDS)         |        Spirling         |       |  ongoing   | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
+| Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |    TBA     | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
 
 
 
