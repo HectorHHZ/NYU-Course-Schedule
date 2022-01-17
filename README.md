@@ -1,4 +1,4 @@
-# NYU-Course-Schedule
+NYU-Course-Schedule
 
  I am currently improve this repository
  Hi, folks👋. Here is Hector He. I am currently a NYU graduate student major in computer Engineering💻. 
@@ -53,10 +53,10 @@
 | Advanced Machine Learning (Tandon Engineering) |    Anna Choromanska     |       |                 |                   TBA                    |  ✨✨✨✨✨  |
 |       Deep Learning (Courant CDS)        |       Yann LeCun        |       |     ongoing     | [Link](https://cds.nyu.edu/deep-learning/) |  ✨✨✨✨✨  |
 |    Deep Learning (Tandon Engineering)    |      Chinmay Hegde      |       |                 | [Link](https://chinmayhegde.github.io/dl-notes/) |  ✨✨✨✨✨  |
-|      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |       TBA       | [Link](https://github.com/danielepanozzo/cg) |         |
-| Natural Language Processing (Courant CS) |          He He          |       |       TBA       | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
+|      Computer Graphics(Courant CS)       |     Daniele Panozzo     |       |                 | [Link](https://github.com/danielepanozzo/cg) |         |
+| Natural Language Processing (Courant CS) |          He He          |       |                 | [Link](https://hhexiy.github.io/nlp/2021/schedule.html) |         |
 |        Text as data(Courant CDS)         |        Spirling         |       |     ongoing     | [Link](https://github.com/ArthurSpirling/text-as-data-class-spring2021) |         |
-| Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |       TBA       | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
+| Introduction to Computer Vision(Courant CDS) | Bietti, Ponce, Sizikova |       |                 | [Link](https://mtrager.github.io/introCV-fall2019/) |         |
 |                                          |                         |       |                 |                                          |         |
 |                                          |                         |       |                 |                                          |         |
 |                                          |                         |       |                 |                                          |         |
