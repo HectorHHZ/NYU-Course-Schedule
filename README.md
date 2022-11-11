@@ -1,4 +1,4 @@
-#NYU-Course-Schedule
+# NYU-Course-Schedule
 
  I am currently improving this repository  Hi, folks👋. Here is Hector He. I am an NYU graduate student majoring in Computer Engineering💻.   I am currently taking courses from NYU Tandon School of Engineering and NYU Courant Institute of Mathematical Sciences(Center for Data Science/ Computer Science).  In this depository, I will proudly share with you guys course materials I took and the open-source courses provided by NYU. Most of the courses are excellent and worth learning.  Besides, I will build the course map for NYU-CS/DS/ECE master program. 
 
