@@ -21,13 +21,13 @@
 
 # Software
 
-|                         Course                         |          Instructor           | Grade |     Status      |                 Workload                 | Repository |                        Brief Comment                         |
-| :----------------------------------------------------: | :---------------------------: | :---: | :-------------: | :--------------------------------------: | :--------: | :----------------------------------------------------------: |
-| Internet Architecture & Protocols (Tandon Engineering) |  Z. John Zhao &  Fraida Fund  |       | Complete(2022S) |  14 homework + 12 lab + midterm + final  |            |  ungraded homework and graded lab. Relative large workload.  |
-|       Introduction to Java (Tandon Engineering)        | Constantine (Dean) Christakos |       |                 |                                          |            |                            ✨✨✨✨✨                             |
-| Introduction to Operating System (Tandon Engineering)  |         Omar Mansour          |       |                 |                                          |            |                            ✨✨✨✨✨                             |
-|   Principle of Database System (Tandon Engineering)    |         Torsten Suel          |       |                 |                                          |            |                             ✨✨✨✨                             |
-|   Principle of Database System (Tandon Engineering)    |          Amit Patel           |       | Complete(2022S) | 4 homework + 2 project + midterm + final |            | Project is the most important in this course. Design a full-stack website in project 2 but can use the programming language by preference(e.g. Java, Python, React, etc.) Recommended if you want some projects in the CV. |
+|                         Course                         |          Instructor           | Grade |     Status      |                 Workload                 |                  Repository                  |                        Brief Comment                         |
+| :----------------------------------------------------: | :---------------------------: | :---: | :-------------: | :--------------------------------------: | :------------------------------------------: | :----------------------------------------------------------: |
+| Internet Architecture & Protocols (Tandon Engineering) |  Z. John Zhao &  Fraida Fund  |       | Complete(2022S) |  14 homework + 12 lab + midterm + final  |                                              |  ungraded homework and graded lab. Relative large workload.  |
+|       Introduction to Java (Tandon Engineering)        | Constantine (Dean) Christakos |       |                 |                                          |                                              |                            ✨✨✨✨✨                             |
+| Introduction to Operating System (Tandon Engineering)  |         Omar Mansour          |       |                 |                                          |                                              |                            ✨✨✨✨✨                             |
+|   Principle of Database System (Tandon Engineering)    |         Torsten Suel          |       |                 |                                          |                                              |                             ✨✨✨✨                             |
+|   Principle of Database System (Tandon Engineering)    |          Amit Patel           |       | Complete(2022S) | 4 homework + 2 project + midterm + final | [Link](https://github.com/zhushunyi/CS-6083) | Project is the most important in this course. Design a full-stack website in project 2 but can use the programming language by preference(e.g. Java, Python, React, etc.) Recommended if you want some projects in the CV. |
 
 
 
