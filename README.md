@@ -4,7 +4,7 @@
 
 - If you are an NYU student and would like to improve this repository, make your change and send me a request! I will appreciate every single help. Thanks!  
 - If you find this repository is helpful, your 🌟 will be the best reward for me!！
-- If you want to talk to use directly, you can contact via email: hh2537@nyu.edu / sz3719@nyu.edu.
+- If you want to talk to use directly, you can contact via email: hh2537@nyu.edu/ haozeh@cs.cmu.edu / sz3719@nyu.edu.
 
 # Algorithm / Mathematics 
 
